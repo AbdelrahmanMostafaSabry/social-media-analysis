@@ -127,6 +127,6 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Abdelrahman Mustafa**
 
 Python Developer | Data Analyst
